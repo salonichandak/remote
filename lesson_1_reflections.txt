@@ -1,0 +1,2 @@
+It helped me a lor in seeing the differences between two files and in finding the bug.
+Pros of manually choosing when to commit are that we can ease the pain of committing things which we will eventually undo
